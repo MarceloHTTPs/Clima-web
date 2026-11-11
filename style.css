@@ -16,15 +16,18 @@ h1 {
     position: absolute;
     align-items: center;
     justify-content: center;
-    top: 30px;
+    top: 40px;
     left: 50%;
     transform: translateX(-50%);
     color: white;
     background: #000000;
     opacity: 0.8;
     border-radius: 25px;
-    padding: 10px;
-    max-width: 450px;
+    padding: 5px 20px;
+    width: fit-content;
+  
+    white-space: nowrap;
+    margin: 0;
 
 }
 
